@@ -1,2 +1,3 @@
 # Guangzhou-Subway-Shortest-Path
-Developed with C,use Dijkstra algorithm.
+广州地铁最短线路查询，完成于2017年6月20日。
+利用dijkstra算法求出最短路径，C语言编写。
