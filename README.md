@@ -3,7 +3,7 @@
 利用dijkstra算法求出最短路径
 # 安装方法
 ```
-$ git https://github.com/PythonerKK/Guangzhou-Subway-Shortest-Path
+$ git clone https://github.com/PythonerKK/Guangzhou-Subway-Shortest-Path
 $ cd Guangzhou-Subway-Shortest-Path
 ```
 # 效果图
